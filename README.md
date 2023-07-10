@@ -1,7 +1,7 @@
 # Gestamp_Group1
 
 This project contains two notebooks:
-- "Open_Files.ipynb" has only been used for the initial data exploration purpuse only. 
+- "Open_Files.ipynb" has only been used for the initial data exploration purpose only. 
 - "Capstone_Final.ipynb" contains all the steps of our project.
 
 You can find below the executive summary.
