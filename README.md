@@ -1,5 +1,11 @@
 # Gestamp_Group1
 
+This project contains two notebooks:
+- "Open_Files.ipynb" has only been used for the initial data exploration purpuse only. 
+- "Capstone_Final.ipynb" contains all the steps of our project.
+
+You can find below the executive summary.
+
 ## Title: Automotive Industry Machine Learning for Quality Control
 
 ## By: Maria Botello, Hassan El Mokdad, Julien Elia, Yara Hoteit, and Walid Mneymneh.
