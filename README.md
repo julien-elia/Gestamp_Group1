@@ -12,7 +12,7 @@ You can find below the executive summary.
 
 ## Executive Summary 
 
-Gestamp, a Spanish multinational company specialized in manufacturing of components for world leading automobile manufacturers, faces the challenge of efficiently identifying defects in their cold stamping process. This process consists of four main steps: washing the metal piece, pressing it with dies, imprinting a specific pattern, and manually inspecting for defects. Therefore, we are presenting the development of a machine learning model aimed at automating the quality detection process.
+Gestamp, a Spanish multinational company specialized in manufacturing of components for world leading automobile manufacturers, faces the challenge of efficiently identifying defects in their cold stamping process. This process consists of four main steps: washing the metal piece, pressing it with dies, imprinting a specific pattern, and manually inspecting for defects. Therefore, we are presenting the development of a machine learning model aimed at automating the quality detection process. 
 
 The objective of this project was to leverage machine learning techniques, enabling automated quality detection and reducing the reliance on manual inspection. To achieve this, we started by analyzing hundreds of files provided by the company. Out of all those files, we estimated that only the files containing actual values were necessary for our analysis. Indeed, other files such as the parameters or the asset numbers were removed from the analysis. Thanks to this data selection process, we have reduced the number of features to 77. 
 
